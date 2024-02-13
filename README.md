@@ -32,14 +32,14 @@ Réponse ping désactivée
 Contrôle par adresse MAC activé  
 Routage statique: 172.21.0.0/16 -> 172.21.122.1
 
-## Subnet 1
+### Subnet 1
 | Nom          | Rôle   | OS     | Adressage | IP                | Gateway        |
 |--------------|---------|--------|-----------|-------------------|----------------|
 | Internet Box | Gateway | Linux  | Manuel    | 172.21.122.254/16 | 127.0.0.1      |
 | IoT          | *       | *      | DHCP      | *                 | 172.21.122.254 |
 | Router       | *       | Client | Manuel    | 172.21.122.1/16   | 172.21.122.254 |
 
-## Subnet 2
+### Subnet 2
 | Nom     | Rôle                  | OS                  | Adressage | IP                 | Gateway      |
 |---------|------------------------|---------------------|-----------|--------------------|--------------|
 | Router  | Gateway                | *                   | Manuel    | 172.22.122.1/16    | 127.0.0.1    |
