@@ -12,4 +12,4 @@
 |Switch1	|Commutateur	|
 
 ### Schéma du réseau
-<img src="./Images/HomeLab_IT.png" width=100>
+<img src="./Images/HomeLab_IT.png" width=500>
