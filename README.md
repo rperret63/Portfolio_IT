@@ -11,3 +11,5 @@
 |Laptop1	|Ordinateur Portable	|
 |Switch1	|Commutateur	|
 
+### Schéma du réseau
+<img src="./Images/HomeLab_IT.png
