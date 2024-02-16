@@ -25,7 +25,7 @@ Contrôle par adresse MAC désactivé
 
 #### Router
 Serveur DHCP: 172.22.73.10/16 à 172.22.73.90/16  
-DNS: 172.22.73.110, 172.22.73.130
+DNS: 172.22.73.110, 172.22.73.130  
 Wifi: SSID visible, WPA3  
 Wifi invité désactivé  
 Réponse ping désactivée  
