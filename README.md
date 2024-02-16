@@ -30,7 +30,7 @@ Wifi: SSID visible, WPA3
 Wifi invité désactivé  
 Réponse ping désactivée  
 Contrôle par adresse MAC activé  
-Routage statique: 172.21.0.0/16 -> 172.21.122.1
+Routage statique: 172.21.0.0/16 via 172.21.122.254
 
 ### Subnet 1
 | Nom          | Rôle   | OS     | Adressage | IP                | Gateway        |
