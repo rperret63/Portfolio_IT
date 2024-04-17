@@ -37,7 +37,7 @@ Routage statique: 172.21.0.0/16 via 172.21.122.254
 |--------------|---------|--------|-----------|-------------------|----------------|
 | Internet Box | Gateway | Linux  | Manuel    | 172.21.122.254/16 | 127.0.0.1      |
 | IoT          | *       | *      | DHCP      | *                 | 172.21.122.254 |
-| Router       | *       | Client | Manuel    | 172.21.122.1/16   | 172.21.122.254 |
+| Router       | *       | pfSense | Manuel    | 172.21.122.1/16   | 172.21.122.254 |
 
 ### Subnet 2
 | Nom     | Rôle                  | OS                  | Adressage | IP                 | Gateway      |
